@@ -10,6 +10,7 @@ step-1
 step-2
 
 open the folder and run the below command to install the django
+
 { pip install django }
 
 { pip install -r requirements.txt }
